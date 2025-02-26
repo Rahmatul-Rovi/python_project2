@@ -1,0 +1,17 @@
+
+--- Bill Receipt ---
+Customer Name: Rovi
+Customer Phone: 01784
+Customer Email: rov@gmail.com
+-------------------
+Products:
+Mango (x4): $200.00
+Bread (x2): $40.00
+
+-------------------
+Subtotal: $240.00
+Discount: 3%
+Tax: 1%
+-------------------
+Total: $235.13
+-------------------
